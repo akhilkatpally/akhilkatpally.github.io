@@ -1,5 +1,1 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Hello, Thank you for visiting my personal website. My Name is Akhil Katpally, I am a Software/Machine Learning Engineer by Training. But, I am an extremly curious person and i would like to write down my thoughts on various topics here. I am new to blogging and sharing my thoughts with the world, i had other avenues before but i am trying this one out. Please reach out to me for any suggestions or queries @ akhilkatpally at gmail dot com. 
