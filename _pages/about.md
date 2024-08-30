@@ -2,7 +2,11 @@
 layout: about
 title: about
 permalink: /about
+nav: true
+nav_order: 1
 subtitle: 
+
+
 
 profile:
   align: right
