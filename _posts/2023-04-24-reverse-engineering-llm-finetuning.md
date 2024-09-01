@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding llm fine-tuning step to understand prompt engineering
-date: 2024-09-01 13:00:00
+date: 2024-08-01 01:00:00-0400
 description: To be successfull at prompt engieering, understanding what went into fine-tuning llm is crucial. 
 tags: llm fine-tuning, prompt engineering, ai
 categories: ai, llm, fine-tuning, prompt engineering 
@@ -19,25 +19,10 @@ Second, Reverse Engineering the fine-tuned model to understand the major prompts
 
  
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/pexels-engin-akyurt-6069112-960x540-30fps.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/pexels-engin-akyurt-6069112-960x540-30fps.mp4" class="img-fluid rounded z-depth-1" controls=true %}
-    </div>
-</div>
-<div class="caption">
-    A simple, elegant caption looks good between video rows, after each row, or doesn't have to be there at all.
-</div>
-
-It does also support embedding videos from different sources. Here are some examples:
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/embed/jNQXAC9IVRw" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/watch?v=ewRjZoRtu0Y" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://player.vimeo.com/video/524933864?h=1ac4fd9fb4&title=0&byline=0&portrait=0" class="img-fluid rounded z-depth-1" %}
-    </div>
+
 </div>
