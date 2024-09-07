@@ -20,3 +20,13 @@ Lorem ipsum dolor sit amet, consectetur adipisicing.
 {% endquote %}
 
 If you would like something more academic, check the [distill style post]({% post_url 2018-12-22-distill %}).
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-041MKLVHR9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-041MKLVHR9');
+</script>

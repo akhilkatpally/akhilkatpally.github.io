@@ -83,3 +83,14 @@ which generates:
 ```
 
 For more examples, check out the [typograms documentation](https://google.github.io/typograms/#examples).
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-041MKLVHR9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-041MKLVHR9');
+</script>
