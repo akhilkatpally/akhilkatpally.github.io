@@ -15,9 +15,9 @@ categories:  Education, India, Modern World, Technology
 
 Number of Children attending government schools in Telangana is huge, providing quality education to all these children is a very challenging task. When proposing solutions to these problems, it is very important to judge them based on these following factors 
     **1. How easy to implement them.**
-    **2. Any system if not managed properly would be degraded in a quick time. Building solutions which doesn't need that much management and would not degrade is crucial.**
+    **2. How easy to manage them**
     **3. Use of technology to automate most of the tasks.**
-    **4. Careful design of the systems to include concerns of students or teachers. It is important that the any system/solution should in some way help reduce problems of the teachers.**
+    **4. Careful design of the systems to solve concerns of students or teachers.**
 
 
 --more points to be added
@@ -62,6 +62,15 @@ There are definitely some bright students who would want to learn advance concep
 **Role of Technology in Education:**
 This is huge, needs lot of thought and research. 
 
+Pen and Paper: 
+    It is a static system.
+    Limted Information, you can only write stuff that fits in a paper.
+    
+
+Digital: 
+    It is a dynamic system, for example if you have an image, you can zoom in, zoom out and see to the smallest detail. 
+    It is an unlimited system, you can write how much ever you want. 
+
 
 **Communication Skills:**
 
@@ -84,6 +93,7 @@ We all know how sports help in physical and mental development of children.
 
 **Extra Curricular Activities:**
 Unfinished.  
+
 **Decentralization of Education System:**
 Unfinished.
 
