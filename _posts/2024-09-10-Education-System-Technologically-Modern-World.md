@@ -25,14 +25,14 @@ Number of Children attending government schools in Telangana is huge, providing 
 
 **Purpose of the Education:** 
 
-**Main purpose of education is to make students think and ask questions.** When I think of education system, One common event which happend in primary schools keeps recurring in my mind, where students are repeating after teacher saying A for Apple, B for Ball etc. You go to any elementary classes you could hear those chanting of the students without really understanding what they are. Ideally teacher should be asking students what do you know of words starting with A or B. This gives students an opportunity to think and answer, even if it is wrong it is ok. 
+**Main purpose of education is to make students think and ask questions.** When I think of education system, One common event which happend in primary schools keeps recurring in my mind, where students are repeating after teacher, saying A for Apple, B for Ball etc. You go to any elementary classes, you could hear those students chanting without really understanding what they are. Ideally, teacher should be asking students what do you know of words starting with A or B. This gives students an opportunity to think and answer, even if it is wrong it is ok. 
 
 I think this is much more deeper problem than it potrays. Since we don't speak English language from childhood, we don't hear that many words while growing up, it becomes difficult for children to recollect those words when teacher asks the questions. I wonder memorization than understanding it is actively ingrained to a childs brain since childhood that you have to memorize as much as possible. Every year the vocabulary of English words we use in our common language keeps increasing and it would be smaller problem every year. 
 
-On a much deeper level I think having too many languages to learn also has some contribution to it. I am not sure of any country where you have to learn these many languages and also more importantly, how it effects learning and communication ability.  But also there are some evidence that learning/knowing multiple languages is better for brain. I am not sure how conclusive this is.
+On a much deeper level, I think having too many languages to learn also has some contribution to it. I am not sure of any country where you have to learn these many languages and also more importantly, how it effects learning and communication ability.  But, there is some evidence that learning/knowing multiple languages is better for brain. I am not sure how conclusive this is.
 
 (Disclaimer: I am not against any religion or faith). 
-One more problem which is deeply imbibed in our culture is Sanskrit slokas which pujaris chant or speak. We have taken for granted that they chant something and we repeat it without really understanding and would never bother to asks or understand their meaning. 
+One more problem which is deeply imbibed in our culture is Sanskrit slokas which pujaris chant or speak. We have taken for granted that they chant something and we repeat it without really understanding and would never bother to asks or understand their meaning. A child seeing these events would normalize that chanting/memorizing something without understanding is ok. 
 
 
 
@@ -44,8 +44,7 @@ Lowest hanging fruit to improve the education system is to fix the examination s
 
  One way to improve the system is change the examination from pen and paper to computer based examination. Computer based examinations gives us freedom to completely reimagine how you can test students, instead of memorizing, rote learning and writing at the time of examination. You can test the same subjects visually or graphically or in a Question and Answer format.  
 
-It is difficult to implement this for all classes of students and also in rural areas. Best students for this is engineering students especially computer science to start of with. 
-For Engineering Students, it is better to move to a more practical based examination system. For example, in a coding class, you can give them a large code which contains bugs in it and ask them to debug and fix it. Main reason why engineering students are not hirable is because the whole system is not practical based. Everyone know that you can mug up last 3 years of question papers and get good grades. 
+It is difficult to implement this for all classes of students and also in rural areas. Best candiates to test this system are engineering students especially computer science to start of with. For Engineering Students, it is better to move to a more practical based examination system. For example, in a computer programming class, you can give them a large code which contains bugs in it and ask them to debug and fix it. Main reason why engineering students are not hireable is because the whole system is not practical based. Everyone know that you can mug up last 3 years of question papers and get good grades. 
 
 **Unfinished. More coming soon.**
 
@@ -62,13 +61,13 @@ There are definitely some bright students who would want to learn advance concep
 This is huge, needs lot of thought and research. 
 
 
-**How to Imbibe Good Communication Skills at a very young age:**
+**Communication Skills:**
 
-One aspect of Education System is to learn how to think, asking questions, how to learn. But, another major aspect of it is how to express your thoughts. 
-IT could be orally either through presentation or informally.
-    • I do see this problem in majority of the students, generally it is wrongly attributed to English language but it is much more than that. Teaching this at a very young age would make night and day difference in a students life. Learning something at a very young age is very easy compared to learning at adult life especially when it comes to communication.  
-It could be on a written format. 
-    This is consistently tested through the examinations. 
+One aspect of Education System is to learn how to think, asking questions, how to learn. But, another major aspect of it is how to **express your thoughts.** 
+
+IT could be orally either through presentation or informally: I do see this problem in majority of the students, generally it is wrongly attributed to English language but it is much more than that. Teaching this at a very young age would make night and day difference in a students life. Learning something at a very young age is very easy compared to learning at adult life especially when it comes to communication.  
+
+It could be on a written format: This is consistently tested through the examinations. 
 
 Oral presentaion from a very young age should be part of examination, not in a final exam but definately at the mid terms. If possible it should be a seperate class where a student should be tested on their presentation skills. Oral presentation is very time taking, so creating a seperate class for this will definately not disturb the individual class schedule. 
 
