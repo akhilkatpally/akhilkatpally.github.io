@@ -11,14 +11,16 @@ categories:  Education, India, Modern World, Technology
  
 **Education System for the Technologically Advanced Modern World:**
 
-**This is a draft which is in very initial stages of development, there is lot of work to finish it.** 
+**This is a draft which is in initial stages of development, there is lot of work to finish it.** 
 
 Number of Children attending government schools in Telangana is huge, providing quality education to all these children is a very challenging task. When proposing solutions to these problems, it is very important to judge them based on these following factors 
-    • How easy to implement them.
-    • Any system if not managed properly would be degraded in a quick time. Building solutions which doesn't need that much management and would not degrade is crucial.
-    • Use of technology to automate most of the tasks.
-    • Careful design of the systems to include concerns of students or teachers. It is important that the any system/solution should in some way help reduce problems of the teachers.   
-** more points to be added
+    **1. How easy to implement them.**
+    **2. Any system if not managed properly would be degraded in a quick time. Building solutions which doesn't need that much management and would not degrade is crucial.**
+    **3. Use of technology to automate most of the tasks.**
+    **4. Careful design of the systems to include concerns of students or teachers. It is important that the any system/solution should in some way help reduce problems of the teachers.**
+
+
+--more points to be added
 
 
 
@@ -27,9 +29,9 @@ Number of Children attending government schools in Telangana is huge, providing 
 
 **Main purpose of education is to make students think and ask questions.** When I think of education system, One common event which happend in primary schools keeps recurring in my mind, where students are repeating after teacher, saying A for Apple, B for Ball etc. You go to any elementary classes, you could hear those students chanting without really understanding what they are. Ideally, teacher should be asking students what do you know of words starting with A or B. This gives students an opportunity to think and answer, even if it is wrong it is ok. 
 
-I think this is much more deeper problem than it potrays. Since we don't speak English language from childhood, we don't hear that many words while growing up, it becomes difficult for children to recollect those words when teacher asks the questions. I wonder memorization than understanding it is actively ingrained to a childs brain since childhood that you have to memorize as much as possible. Every year the vocabulary of English words we use in our common language keeps increasing and it would be smaller problem every year. 
+I think this is much more deeper problem than it potrays. Since we don't speak English language from childhood, we don't hear that many words while growing up, it becomes difficult for children to recollect those words when teacher asks the questions. I wonder, weather memorization of concepts/ideas rather than understanding is actively ingrained to a childs brain right from very young age.  
 
-On a much deeper level, I think having too many languages to learn also has some contribution to it. I am not sure of any country where you have to learn these many languages and also more importantly, how it effects learning and communication ability.  But, there is some evidence that learning/knowing multiple languages is better for brain. I am not sure how conclusive this is.
+On a much deeper level, I think having too many languages to learn also has some contribution to it. I am not sure of any country where you have to learn these many languages and also more importantly, how it effects learning and communication ability. But, there is some evidence that learning/knowing multiple languages is better for brain. I am not sure how conclusive this is.
 
 (Disclaimer: I am not against any religion or faith). 
 One more problem which is deeply imbibed in our culture is Sanskrit slokas which pujaris chant or speak. We have taken for granted that they chant something and we repeat it without really understanding and would never bother to asks or understand their meaning. A child seeing these events would normalize that chanting/memorizing something without understanding is ok. 
@@ -63,7 +65,7 @@ This is huge, needs lot of thought and research.
 
 **Communication Skills:**
 
-One aspect of Education System is to learn how to think, asking questions, how to learn. But, another major aspect of it is how to **express your thoughts.** 
+One aspect of Education System is to learn how to think, asking questions and how to learn. But, another major aspect of it is how to **express your thoughts.** 
 
 IT could be orally either through presentation or informally: I do see this problem in majority of the students, generally it is wrongly attributed to English language but it is much more than that. Teaching this at a very young age would make night and day difference in a students life. Learning something at a very young age is very easy compared to learning at adult life especially when it comes to communication.  
 
