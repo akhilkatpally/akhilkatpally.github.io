@@ -3,8 +3,8 @@ layout: post
 title: Education System for the Technologically Advanced Modern World:
 date: 2024-09-10 01:00:00-0400
 description: Currently state of education in Telangana is very poor. This is just a brain dump of few ideas on how to improve the system. 
-tags: Education, Telangana, India, Modern World, Technology
-categories: Telangana, Education, India, Modern World, Technology
+tags: Education, India, Modern World, Technology
+categories:  Education, India, Modern World, Technology
 ---
 
 
@@ -25,14 +25,16 @@ Number of Children attending government schools in Telangana is huge, providing 
 
 **Purpose of the Education:** 
 
-Main purpose of education is to make students think and ask questions. One common event which keeps recurring in my mind when I think of education system in Telangana is students repeating after teacher saying A for Apple, B for Ball etc. You go to any elementary classes you could hear those chanting of the students without really understanding what they are. Ideally teacher should be asking students what do you know of words starting with A or B. This gives students an opportunity to think and answer, even if it is wrong it is ok. 
+**Main purpose of education is to make students think and ask questions.** When I think of education system, One common event which happend in primary schools keeps recurring in my mind, where students are repeating after teacher saying A for Apple, B for Ball etc. You go to any elementary classes you could hear those chanting of the students without really understanding what they are. Ideally teacher should be asking students what do you know of words starting with A or B. This gives students an opportunity to think and answer, even if it is wrong it is ok. 
 
-I think this is much more deeper problem than it potrays. Since we don't speak English language from childhood, we don't hear that many words while growing up, it becomes difficult for children to recollect those words when teacher asks the questions. Every year the vocabulary of English words we use in our common language keeps increasing and it would be smaller problem every year. 
+I think this is much more deeper problem than it potrays. Since we don't speak English language from childhood, we don't hear that many words while growing up, it becomes difficult for children to recollect those words when teacher asks the questions. I wonder memorization than understanding it is actively ingrained to a childs brain since childhood that you have to memorize as much as possible. Every year the vocabulary of English words we use in our common language keeps increasing and it would be smaller problem every year. 
+
+On a much deeper level I think having too many languages to learn also has some contribution to it. I am not sure of any country where you have to learn these many languages and also more importantly, how it effects learning and communication ability.  But also there are some evidence that learning/knowing multiple languages is better for brain. I am not sure how conclusive this is.
 
 (Disclaimer: I am not against any religion or faith). 
 One more problem which is deeply imbibed in our culture is Sanskrit slokas which pujaris chant or speak. We have taken for granted that they chant something and we repeat it without really understanding and would never bother to asks or understand their meaning. 
 
-On a much deeper level I think having too many languages to learn also has some contribution to it. But also there are some evidence that learning/knowing multiple languages is better for brain. I am not sure how conclusive this is.
+
 
 **Unfinished. More coming soon.**
 
