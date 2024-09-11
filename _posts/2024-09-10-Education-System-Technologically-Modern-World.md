@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Education System for the Technologically Advanced Modern World:
+title: Education System for the Technologically Advanced Modern World
 date: 2024-09-10 01:00:00-0400
 description: Currently state of education in Telangana is very poor. This is just a brain dump of few ideas on how to improve the system. 
 tags: Education, India, Modern World, Technology
