@@ -4,4 +4,4 @@ permalink: /robots.txt
 User-agent: *
 Allow: /
 
-Sitemap: https://akhilkatpally.github.io/sitemap.xml
+Sitemap: https://akhilkatpally.com/sitemap.xml
