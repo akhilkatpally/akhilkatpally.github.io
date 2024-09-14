@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Education System for the Technologically Advanced Modern World
+title: Education System for Technologically Advanced Modern World
 date: 2024-09-10 01:00:00-0400
 description: Currently state of education in Telangana is very poor. This is just a brain dump of few ideas on how to improve the system. 
 tags: Education, India, Modern World, Technology
@@ -62,10 +62,12 @@ There are definitely some bright students who would want to learn advance concep
 **Role of Technology in Education:**
 This is huge, needs lot of thought and research. 
 
+Use of Digital Technologies in examination, this would be a game changer .... people don't complain this 
+
 Pen and Paper: 
     It is a static system.
     Limted Information, you can only write stuff that fits in a paper.
-    
+
 
 Digital: 
     It is a dynamic system, for example if you have an image, you can zoom in, zoom out and see to the smallest detail. 
