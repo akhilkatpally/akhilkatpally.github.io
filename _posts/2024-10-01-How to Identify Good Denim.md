@@ -1,8 +1,8 @@
 ---
 layout: post
 title: How to Identify Good Denim Jeans
-date: 2024-08-01 01:00:00-0400
-description: 
+date: 2024-10-01 01:00:00-0400
+description: Buying a High Quality Denim is always a life saver.
 tags: denim, jeans
 categories: miscellaneous, denim, jeans,   
 ---
