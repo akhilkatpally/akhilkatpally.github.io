@@ -6,33 +6,7 @@ Here we will give you some tips on how to customize the website. One important t
 
 The project is structured as follows, focusing on the main components that you will need to modify:
 
-```txt
-.
-├── 📂 assets/: contains the assets that are displayed in the website
-│   └── 📂 json/
-    │   └── 📄 resume.json: CV in JSON format (https://jsonresume.org/)
-├── 📂 _bibliography/
-│   └── 📄 papers.bib: bibliography in BibTeX format
-├── 📄 _config.yml: the configuration file of the template
-├── 📂 _data/: contains some of the data used in the template
-│   ├── 📄 cv.yml: CV in YAML format, used when assets/json/resume.json is not found
-│   └── 📄 repositories.yml: users and repositories info in YAML format
-├── 📂 _includes/: contains code parts that are included in the main HTML file
-│   └── 📄 news.liquid: defines the news section layout in the about page
-├── 📂 _layouts/: contains the layouts to choose from in the frontmatter of the Markdown files
-├── 📂 _news/: the news that will appear in the news section in the about page
-├── 📂 _pages/: contains the pages of the website
-|   └── 📄 404.md: 404 page (page not found)
-├── 📂 _posts/: contains the blog posts
-├── 📂 _projects/: contains the projects
-└── 📂 _sass/: contains the SASS files that define the style of the website
-    ├── 📄 _base.scss: base style of the website
-    ├── 📄 _cv.scss: style of the CV page
-    ├── 📄 _distill.scss: style of the Distill articles
-    ├── 📄 _layout.scss: style of the overall layout
-    ├── 📄 _themes.scss: themes colors and a few icons
-    └── 📄 _variables.scss: variables used in the SASS files
-```
+
 
 ## Configuration
 
@@ -46,11 +20,10 @@ All changes made to this file are only visible after you rebuild the website. Th
 
 There are currently 2 different ways of generating the CV page content. The first one is by using a json file located in [assets/json/resume.json](assets/json/resume.json). It is a [known standard](https://jsonresume.org/) for creating a CV programmatically. The second one, currently used as a fallback when the json file is not found, is by using a yml file located in [\_data/cv.yml](_data/cv.yml). This was the original way of creating the CV page content and since it is more human readable than a json file we decided to keep it as an option.
 
-What this means is, if there is no resume data defined in [\_config.yml](_config.yml) and loaded via a json file, it will load the contents of [\_data/cv.yml](_data/cv.yml). If you want to use the [\_data/cv.yml](_data/cv.yml) file as the source of your CV, you must delete the [assets/json/resume.json](assets/json/resume.json) file.
 
 ## Modifying the user and repository information
 
-The user and repository information is defined in [\_data/repositories.yml](_data/repositories.yml). You can add as many users and repositories as you want. Both informations are used in the `repositories` section.
+
 
 ## Creating new pages
 
@@ -64,7 +37,7 @@ If you want to create blog posts that are not ready to be published, but you wan
 
 ## Creating new projects
 
-You can create new projects by adding new Markdown files in the [\_projects](_projects/) directory. The easiest way to do this is to copy an existing project and modify it.
+
 
 ## Adding some news
 
@@ -92,7 +65,7 @@ scholar:
   first_name: [Albert, A.]
 ```
 
-If the entry matches one form of the last names and the first names, it will be underlined. Keep meta-information about your co-authors in [\_data/coauthors.yml](_data/coauthors.yml) and Jekyll will insert links to their webpages automatically. The co-author data format is as follows,
+
 
 ```yaml
 "adams":

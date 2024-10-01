@@ -15,7 +15,15 @@ How to include CSR and other donations to the schools to buy some infrastructure
 
 Education System for the Technologically Advanced Modern World:
 
-After State Government services like ration card or pensions or me seva services ... education has highest number of customers. 
+This is a draft which is in very initial stages of development, there is lot of work to finish it. 
+
+Number of Children attending government schools in Telangana is huge, providing quality education to all these children is a very challenging task. When proposing solutions to these problems, it is very important to judge them based on these following factors 
+    • How easy to implement them.
+    • Any system if not managed properly would be degraded in a quick time. Building solutions which doesn't need that much management and would not degrade is crucial.
+    • Use of technology to automate most of the tasks. 
+** more points to be added
+
+After State Government services like ration card or pensions or me seva services ... education has highest number of customers. I have experience working in MNC and I know how difficult it is to provide services to customers. Typically the number customers in those companies are not even 10% of the customers Government Schools have. The scale of the problem you are dealing here is humongous.  
 
 
 Purpose of the Education: 
