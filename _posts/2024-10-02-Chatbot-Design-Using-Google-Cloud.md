@@ -7,19 +7,6 @@ tags: ChatBot, llm, Google Cloud, Vertex AI, Agent Builder, Vertex Search
 categories: ChatBot, llm, Google Cloud, Vertex AI, Agent Builder, Vertex Search   
 ---
 
-Why in the whole world you wanted to idenitfy high quality denim jeans?  
-
-**1. High quality denim lasts long time - cost savings, good for the environment.** 
-**2. They fit exceptionally well to your body, because they adjusts to your body shape overtime.**
-**3. They look exceptionally class - my opinion.**
-
-
- Below are some of the things to check for high quality denim.
- **1. Check the Weight of the jeans. Heavier == high quality. Anythign greater than 12oz(340grams) is heavy jeans.**
- **2. Check the Wrinkles on the denim - avoid buying laser made wrinkles, they look cheap and not natural**
- **3. Check the Distance between the stiches. They should be smaller and there should be 2 parallel stiches**
- **4. Too much streach == bad quality denim. High Quality denim generally has less than 2% strech, material used for streching needs to be less than 2%**
-
  Chatbot Design Document
 
 #### 1. **Overview**
@@ -67,10 +54,6 @@ Note:
 When Building Chatbots using Vertex AI Agent Builder there are 2 approaches you can choose. 
 1. Vector AI Search and Conversation, which is much easier approach where you give all your data to it which will create a data store and make it available to the default chatbot it will build. We don't have control over the flow of the conversations, it will truly leverages the llms. 
 2. Dialogflow CX with Generative models, this approach has much more flexibility. It has the best of both worlds where you can create deterministic intents and plugin generative model aswell. 
-
-##### 4.1 **Detailed Architecture Diagram**
-
-
 
     
 
